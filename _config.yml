@@ -20,7 +20,5 @@ nav:
    link: "/"
  - name: "Publications"
    link: "publications"
- - name: "Contact"
-   link: "contact"
  - name: "Blog"
    link: "https://www.charnsak.com"
