@@ -17,8 +17,7 @@ Here is a table
 
 Year | Award | Category
 -----|-------|--------
-2011 - 2015 | Doctor of Philosophy in Information Technology  | King Mongkut’s University of Technology Thonburi, Bangkok, Thailand.
-(Non-binding scholarship)
+2011 - 2015 | Doctor of Philosophy in Information Technology  | King Mongkut’s University of Technology Thonburi, Bangkok, Thailand.(Non-binding scholarship)
 2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
 2014 | Satellite | Won Best Actor miniseries or television film
 
