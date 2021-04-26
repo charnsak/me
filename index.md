@@ -2,18 +2,16 @@
 layout: default
 ---
 
-## About Me
+## About Charnsak Srisawatsakul
 
 <img class="profile-picture" src="sherlock.jpg">
 
 Charnsak Srisawatsakul Received a Ph.D. degree in Information Technology and Master of Science in Electronic Business from School of Information Technology, King Mongkut’s University of Technology Thonburi Bangkok, Thailand. He born in Bangkok. live in Hatyai (south of Thailand) for ten years. One year in Bangalore . One year in Vienna . He was working as Software Developer at Intel India, Banking in Thailand, Client Tecnical Service (Venda Software), Cloud Services Consutant (Freelance), Lecturer (UTCC), Researcher (KMUTT), Columnist (PC World, Pocket PC Magz), and Merchant.
 
+---
+> Experienced researcher and software developer. Strong analytical skills and a broad range of computer expertise. Good command of English.
 
 ## Education
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
 
 Year | Degree | institution
 -----|------- |--------
@@ -23,11 +21,6 @@ Year | Degree | institution
 
 
 ---
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
 
 ## Experiences
 
