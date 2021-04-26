@@ -6,9 +6,8 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Charnsak Srisawatsakul Received a Ph.D. degree in Information Technology and Master of Science in Electronic Business from School of Information Technology, King Mongkut’s University of Technology Thonburi Bangkok, Thailand. He born in Bangkok. live in Hatyai (south of Thailand) for ten years. One year in Bangalore . One year in Vienna . He was working as Software Developer at Intel India, Banking in Thailand, Client Tecnical Service (Venda Software), Cloud Services Consutant (Freelance), Lecturer (UTCC), Researcher (KMUTT), Columnist (PC World, Pocket PC Magz), and Merchant.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
 ## Research Interest
 
