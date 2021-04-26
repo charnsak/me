@@ -7,7 +7,7 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: yes
+footer: no
 footer_url: "https://github.com/charnsak"
 footer_text: "Page design by Ankit Sultana"
 
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/"
  - name: "Publications"
    link: "resume.pdf"
  - name: "Contact"
