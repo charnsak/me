@@ -9,16 +9,11 @@ layout: default
 Charnsak Srisawatsakul Received a Ph.D. degree in Information Technology and Master of Science in Electronic Business from School of Information Technology, King Mongkut’s University of Technology Thonburi Bangkok, Thailand. He born in Bangkok. live in Hatyai (south of Thailand) for ten years. One year in Bangalore . One year in Vienna . He was working as Software Developer at Intel India, Banking in Thailand, Client Tecnical Service (Venda Software), Cloud Services Consutant (Freelance), Lecturer (UTCC), Researcher (KMUTT), Columnist (PC World, Pocket PC Magz), and Merchant.
 
 
-## Research Interest
+## Experiences
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
-## Publications
-
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-## Typography
+## Education
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
@@ -40,5 +35,4 @@ Here is a blockquote
 
 ## References
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+Avaiable Upon Request
