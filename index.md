@@ -15,13 +15,12 @@ This is a [link](http://google.com). Something *italics* and something **bold**.
 
 Here is a table
 
-Year | Award | Category
------|-------|--------
-2011 - 2015 | Doctor of Philosophy in Information Technology  | King Mongkut’s University of Technology Thonburi, Bangkok, Thailand.(Non-binding scholarship)
-2015        | BAFTA                                           | Nominated for Best Leading Actor for Sherlock
-2014        | Satellite                                       | Won Best Actor miniseries or television film
+Year | Degree | institution
+-----|------- |--------
+2015 | Doctor of Philosophy in Information Technology  | King Mongkut’s University of Technology Thonburi, Bangkok, Thailand.(Non-binding scholarship)
+2009        | Master of Science in Electronic Business | King Mongkut’s University of Technology Thonburi, Bangkok, Thailand.(Non-binding scholarship)
+2006        | Bachelor of Science in Computer Science  | The University of the Thai Chamber of Commerce, Bangkok, Thailand.
 
-Here is a horizontal rule
 
 ---
 
