@@ -24,10 +24,10 @@ Year | Degree | institution
 
 ## Experiences
 
-Year | Position | Company| Details
------|------- |-------- |--------
+Year | Position | Company | Details
+-----|------- |-------- | --------
 
-2020 – Present|Vice Dean for Research and Academic Affairs  |Faculty of computer science, Ubon Ratchathani Rajabhat University, Ubon Ratchathani, Thailand | ▪	Provided faculty-wide strategic for the faculty management team focused on academic and research activities. ▪	Established potential partners from academia and industry in both international and local
+2020 – Present| Vice Dean for Research and Academic Affairs  |Faculty of computer science, Ubon Ratchathani Rajabhat University, Ubon Ratchathani, Thailand | ▪	Provided faculty-wide strategic for the faculty management team focused on academic and research activities. ▪	Established potential partners from academia and industry in both international and local
 
 
 
