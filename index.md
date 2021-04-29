@@ -7,7 +7,7 @@ layout: default
 | INFORMATION | Male, Thai Nationality                                       |
 | ----------- | ------------------------------------------------------------ |
 | Emails:     | charnsak (at) charnsak.com, charnsak (at) protonmail.com(Encrypted), charnsak (at) researcher.in.th |
-| Blogs:      | https://www.charnsak.com, https://www.mashup.in.th, https://www.chaiyuu.com |
+| Blogs:      | [https://www.charnsak.com](https://www.charnsak.com), [https://www.mashup.in.th](https://www.mashup.in.th), [https://www.chaiyuu.com](https://www.chaiyuu.com) |
 
 <img class="profile-picture" src="sherlock.jpg">
 
