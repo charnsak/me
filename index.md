@@ -29,13 +29,15 @@ Year | Degree | institution
 
 ## Experiences
 
-Year | Position | Company | Details
------|------- |-------- | --------
+## Work Experience
 
-2020 – Present| Vice Dean for Research and Academic Affairs  |Faculty of computer science, Ubon Ratchathani Rajabhat University, Ubon Ratchathani, Thailand | ▪	Provided faculty-wide strategic for the faculty management team focused on academic and research activities. ▪	Established potential partners from academia and industry in both international and local
+- **2020 - Present** 	Vice Dean for  Research and Academic Affairs ,Faculty of computer science, Ubon  Ratchathani Rajabhat University, Ubon Ratchathani, Thailand
+  - Provided faculty-wide strategic  for the faculty management team focused on academic and research activities.  
+  - Established potential partners  from academia and industry in both international and local.
+- **2019 – 2020** Post-Doctoral  Researcher (OeAD-Ernst Mach  Grant), Fakultät für Informatik, UniWien, Währinger Straße 29,  1090, Wien, Austria.
+  - § Research  on privacy impact assessment for the upcoming Personal Data Protection Act of  Thailand which based on the General Data Protection Regulation.
+- 
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
 
 ## References
