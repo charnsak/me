@@ -9,7 +9,7 @@ layout: default
 | Emails:     | charnsak (at) charnsak.com, charnsak (at) protonmail.com(Encrypted), charnsak (at) researcher.in.th |
 | Blogs:      | [https://www.charnsak.com](https://www.charnsak.com), [https://www.mashup.in.th](https://www.mashup.in.th), [https://www.chaiyuu.com](https://www.chaiyuu.com) |
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="citation.jpg">
 
 Charnsak Srisawatsakul Received a Ph.D. degree in Information Technology and Master of Science in Electronic Business from School of Information Technology, King Mongkut’s University of Technology Thonburi Bangkok, Thailand. He born in Bangkok. live in Hatyai (south of Thailand) for ten years. One year in Bangalore . One year in Vienna . He was working as Software Developer at Intel India, Banking in Thailand, Client Tecnical Service (Venda Software), Cloud Services Consutant (Freelance), Lecturer (UTCC), Researcher (KMUTT), Columnist (PC World, Pocket PC Magz), and Merchant.
 
