@@ -20,6 +20,7 @@ Charnsak Srisawatsakul Received a Ph.D. degree in Information Technology and Mas
 
 Year | Degree | institution
 -----|------- |--------
+2020 | Post-Doctoral  Researcher | University of Vienna, Austria.
 2015 | Doctor of Philosophy in Information Technology  | King Mongkut’s University of Technology Thonburi, Bangkok, Thailand.(Non-binding scholarship)
 2009 | Master of Science in Electronic Business | King Mongkut’s University of Technology Thonburi, Bangkok, Thailand.(Non-binding scholarship)
 2006 | Bachelor of Science in Computer Science  | The University of the Thai Chamber of Commerce, Bangkok, Thailand.
