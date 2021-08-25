@@ -10,112 +10,51 @@ My Google Scholar : [Click here](https://scholar.google.co.th/citations?user=-w7
 
 My Scopus [Click here](https://www.scopus.com/authid/detail.uri?authorId=55601290300)
 
-## International Publications
+# **List of the publications**
 
-**
+## **International Publications (*** = Top Publications, Order by date of publication)**
 
-บทความวิจัยภาษาอังกฤษ
+1. Srisawatsakul, C., & Boontarig, W. (2022). **Tertiary Student Intention Towards Blockchain-Based Academic Records: A Case Study Of Ubon Ratchathani Province, Thailand.** *Panyapiwat Journal*, 14(2), In Press, Asean Citation Index
+2. *** Srisawatsakul, C., & Boontarig, W. (2021). **An Assessment of Privacy Concerns on Personal Health Information: Thailand Case Study.** *Current Applied Science and Technology*, 21(4), 774-787, Scopus (Q4)
+3. *** Srisawatsakul, C., & Boontarig, W. (2020). **Tourism Recommender System Using Machine Learning Based on User's Public Instagram Photos.** *In The 5th International Conference on Information Technology (InCIT2020).* (pp. 276-281) on 21-22 October 2020. IEEEXplore® Digital Library.
+4. *** Srisawatsakul C., & Boontarig W. (2020). **An Empirical Study Towards the Intention to Use QR Code Payment In Champasak Province, Lao People’s Democratic Republic.** In *Recent Advances in Information and Communication Technology 2020.* (pp. 1-10) on 14-15 May 2020. Springer International Publishing.
+5. Boontarig W., & Srisawatsakul C. (2020). **A Framework for Designing and Evaluating Persuasive Technology in Education.** In *Recent Advances in Information and Communication Technology 2020.* (pp. 93-103) on 14-15 May 2020. Springer International Publishing.
+6. Srisawatsakul, C., and Boontarig, W. (2019). **Factors Affecting the Adoption of Learning through Mobile Social Networks for Higher Education in Different Innovation Adopter Categories.** *Technical Education Journal : King Mongkut’s University of Technology North Bangkok* 10(1), (pp.75-85)
+7. *** Srisawatsakul, C., and Boontarig, W. (2018). **Generations and Level of Information on Mobile Devices Usage: An Entropy-Based Study**. In *Recent Advances in Information and Communication Technology 2018*, (pp. 267-276), Cham: Springer International Publishing
+8. ***Srisawatsakul, C. (2016). **Measuring Information On Mobile Devices Usage: An Entropy-Based Approach**. In *The 20th International Computer Science and Engineering Conference 2016* (ICSEC) (pp.171 -176)
+9. Srisawatsakul, C., & Papasratorn, B. (2015). **Effects of Age on End Users’ Usage of Mobile Social Network Applications.** In *The 10th International Conference on e-Business (iNCEB2015)* (pp.122-128)
+10. *** Srisawatsakul, C., Quirchmayr, G., & Papasratorn, B. (2014a). **A Pilot Study on the Effects of Personality Traits on the Usage of Mobile Applications: A Case Study on Office Workers and Tertiary Students in the Bangkok Area.** In *Recent Advances in Information and Communication Technology* (pp. 145–155). Springer International Publishing.
+11. *** Srisawatsakul, C., Quirchmayr, G., & Papasratorn, B. (2014b). **Do Personality Traits Work as Moderator on the Intention to Purchase Mobile Applications Work?-A Pilot Study**. *In Information and Communication Technology* (pp. 56–65). Springer Berlin Heidelberg.
+12. *** Srisawatsakul, C., & Papasratorn, B. (2013). **Factors Affecting Consumer Acceptance Mobile Broadband Services with Add-on Advertising: Thailand Case Study.** *Wireless Personal Communications,* 69(3), (pp.1055–1065).
+13. Srisawatsakul, C. (2012). **Measuring Thai Consumers Acceptance of Free-Application Advertisement in Android and iOS Device: A Conceptual Model**. In *Proceedings of the 1st International Conference on Mobility for Life: Technology, Telecommunication and Problem Based Learning*, (pp. 1–7) Chiangrai: Mahfahluang University
 
-1. Srisawatsakul, C., & Boontarig, W. (2021). An Assessment of Privacy Concerns on Personal Health Information: Thailand Case Study. Current Applied Science and Technology, 21(4), 774-787, Scopus
-  
-2. Srisawatsakul, C., & Boontarig, W. (2020). Tourism Recommender System Using Machine Learning Based on User's Public Instagram Photos. In The 5th International Conference on Information Technology (InCIT2020). (pp. 276-281) on 21-22 October 2020. IEEEXplore® Digital Library
-  
-3. Srisawatsakul C., Boontarig W. (2020). An Empirical Study Towards the Intention to Use QR Code Payment in Champasak Province, Lao People’s Democratic Republic. In Recent Advances in Information and Communication Technology 2020. pp. 1-10 vol 1149. Springer International Publishing
-  
-4. Boontarig W., Srisawatsakul C. (2020). A Framework for Designing and Evaluating Persuasive Technology in Education. In: Meesad P., Sodsee S. (eds) Recent Advances in Information and Communication Technology 2020. IC2IT 2020. Advances in Intelligent Systems and Computing, vol 1149. Springer, Cham
-  
-5. Boontarig W., Srisawatsakul C. (2019). Factors Affecting the Adoption of Learning through Mobile Social Networks for Higher Education in Different Innovation Adopter Categories. Technical Education Journal : King Mongkut’s University of Technology North Bangkok, 10(1) (pp.75-85)
-  
-6. Srisawatsakul, C., Boontarig, W. (2018). Generations and Level of Information on Mobile Devices Usage: An Entropy-Based Study. In Recent Advances in Information and Communication Technology 2018, (pp. 267-276), Cham: Springer International Publishing
-  
-7. Srisawatsakul, C. (2016). Measuring Information On Mobile Devices Usage: An Entropy-Based Approach. In The 20th International Computer Science and Engineering Conference 2016 (ICSEC) (pp.171 -176)
-  
-8. Srisawatsakul, C., & Papasratorn, B. (2015). Effects of Age on End Users’ Usage of Mobile Social Network Applications. In The 10th International Conference on e-Business (iNCEB2015) (pp.122-128)
-  
-9. Srisawatsakul, C., Quirchmayr, G., & Papasratorn, B. (2014a). A Pilot Study on the Effects of Personality Traits on the Usage of Mobile Applications: A Case Study on Office Workers and Tertiary Students in the Bangkok Area. In Recent Advances in Information and Communication Technology (pp. 145–155). Springer International Publishing.
-  
-10. Srisawatsakul, C., Quirchmayr, G., & Papasratorn, B. (2014b). Do Personality Traits Work as Moderator on the Intention to Purchase Mobile Applications Work?-A Pilot Study. In Information and Communication Technology (pp. 56–65). Springer Berlin Heidelberg.
-  
-11. Srisawatsakul, C., & Papasratorn, B. (2013). Factors Affecting Consumer Acceptance Mobile Broadband Services with Add-on Advertising: Thailand Case Study. Wireless Personal Communications, 69(3), (pp.1055–1065).
-  
-12. Srisawatsakul, C. (2012). Measuring Thai Consumers Acceptance of Free-Application Advertisement in Android and iOS Device: A Conceptual Model. In Proceedings of the 1st International Conference on Mobility for Life: Technology, Telecommunication and Problem Based Learning, (pp. 1–7) Chiangrai: Mahfahluang University
-  
+**Publications in Thai language**
 
-## Publications in Thai
+1. Boontarig W ., C., Inthasang K., and Kitpermkiat S., (2021) **The Conceptual Framework for Assessing the Impact and Privacy Concerns on Personal Health Information.** In *The 12th National Conference of Rajabhat Research for Local Development Toward Sustainability.* (p. O-5-3) Ubon Ratchathani.
+2. Boontarig W., and Srisawatsakul. C., (2019) **Factors Affecting the Intention to Use QR Code Payment System of Small and Medium Enterprise in Ubon Ratchathani, Thailand.** *In The 4rd Suan Dusit Academic National Conference 2018*, (p. 1401-1410). Bangkok: Suan Dusit University
+3. Srisawatsakul C., Santhanee K., and Boontarig W (2019) **Factors Affecting Intention to Use Chat bot for Academic Consulting of Tertiary Students: A Case Study of Faculty of Computer Science Ubon Ratchathani Rajabhat University.** *In The 4rd Suan Dusit Academic National Conference 2018*, (p. 1383-1391). Bangkok: Suan Dusit University
+4. C., Kamta E., and Boontarig W (2019) **The Development of Chabot Prototype for Patients Care of Diabetes in Elderly via Online Social Network.**. *In The 4rd Suan Dusit Academic National Conference 2018*, (p. 1392-1400). Bangkok: Suan Dusit University
+5. C., Boontarig W ., Kulbunya P., and Makdee S., (2019) **The development of a Conceptual Framework for Finding Factors Affecting Intention to Use QR Code Payment System in Champasak Province, Laos People's Democratic Republic.** In *The 12th National Conference of Rajabhat Research for Local Development Toward Sustainability.* (p. O-5-3) Ubon Ratchathani.
+6. C., Boontarig W and Chaiwichit K., (2018) **Internet Performance Measurement Using Ping End-to-End Report By RaspberryPi.** In *Thailand Research Expo : Symposium 2018***.** (p. 442-454 ), Bangkok.
+7. Kamta E., and Srisawatsakul C., (2018) Smart Mass Public Transportation Tracking System Using Smartphone**.** *In The 3rd Suan Dusit Academic National Conference 2018*, (pp 20-25). Bangkok: Suan Dusit University.
+8. Santhanee K., and Srisawatsakul C., (2018) The Adoption of Facebook vs Line for Social Commerce of One Tambon One Product: A Case **Study of Kabbua Fabric of Ubon Ratchathani Province**. *In The 3rd Suan Dusit Academic National Conference 2018*, (pp 26-34). Bangkok: Suan Dusit University.
+9. Auengtrakul C., Boontarig W., and Srisawatsakul. C., (2018) **The Development of Mobile Application of Tourism Attractions in Ubon Ratchathani on Android**. *In The 3rd Suan Dusit Academic National Conference 2018*, (pp 35-40). Bangkok: Suan Dusit University.
+10. Kongsamlee A., and Srisawatsakul C., (2018) **The Improvement of Learning Outcome using Flipped Classroom for Tertiary Students: A Case Study of Ubon Ratchathani Rajabhat University** The 11 National Conference of Rajabhat Research for Local Development Toward Sustainability. Ubon Ratchathani
 
-1. วรัณศณางค์ บุณฑริก ชาญศักดิ์ ศรีสวัสดิ์สกุล ขนิษฐา อินทะแสง และ สันทนีย์ กิจเพิ่มเกียรติ.  (2564) กรอบแนวคิดสำหรับประเมินผลกระทบและความกังวลด้านความเป็นส่วนตัวของข้อมูลสุขภาพส่วนบุคคล. ใน การประชุมวิชาการนำเสนอผลงานวิจัยระดับบัณฑิตศึกษา (Symposium) ครั้งที่ 13 " (น.) อุบลราชธานี: มหาวิทยาลัยราชภัฏอุบลราชธานี.
-  
-2. วรัณศณางค์ บุณฑริก และ ชาญศักดิ์ ศรีสวัสดิ์สกุล.  (2562) ปัจจัยที่มีผลกระทบต่อความตั้งใจในการใช้งานระบบชำระเงินด้วยรหัสคิวอาร์ของวิสาหกิจขนาดกลางและขนาดย่อมในจังหวัดอุบลราชธานี ประเทศไทย. ใน การประชุมวิชาการระดับชาติสวนดุสิต 2019 ครั้งที่ 4 "ศาสตร์พระราชา พัฒนาคุณภาพชีวิต นวัตกรรมเพิ่มผลผลิต ส่งเสริมเศรษฐกิจด้านงานวิจัย" (SDNC2019) (น. 1401 - 1410) กรุงเทพฯ: มหาวิทยาลัยสวนดุสิต.
-  
-3. ชาญศักดิ์ ศรีสวัสดิ์สกุล สันทนีย์ กิจเพิ่มเกียรติ และ วรัณศณางค์ บุณฑริก. (2562) ปัจจัยที่มีผลต่อความตั้งใจในการใช้งานแชทบอทเพื่อให้คำปรึกษาด้านวิชาการสำหรับนักศึกษา: กรณีศึกษา คณะวิทยาการคอมพิวเตอร์ มหาวิทยาลัยราชภัฏอุบลราชธานี. ใน การประชุมวิชาการระดับชาติสวนดุสิต 2019 ครั้งที่ 4 "ศาสตร์พระราชา พัฒนาคุณภาพชีวิต นวัตกรรมเพิ่มผลผลิต ส่งเสริมเศรษฐกิจด้านงานวิจัย" (SDNC2019) (น. 1383 - 1391) กรุงเทพฯ: มหาวิทยาลัยสวนดุสิต (2562)
-  
-4. ชาญศักดิ์ ศรีสวัสดิ์สกุล เอกชัย ขำตา วรัณศณางค์ บุณฑริก การพัฒนาต้นแบบแชทบอทเพื่อดูแลผู้ป่วยโรคเบาหวานในผู้สูงอายุผ่านเครือข่ายสังคมออนไลน์. ใน การประชุมวิชาการระดับชาติสวนดุสิต 2019 ครั้งที่ 4 "ศาสตร์พระราชา พัฒนาคุณภาพชีวิต นวัตกรรมเพิ่มผลผลิต ส่งเสริมเศรษฐกิจด้านงานวิจัย" (SDNC2019) (น. 1392 - 1400) กรุงเทพฯ: มหาวิทยาลัยสวนดุสิต.
-  
-5. ชาญศักดิ์ ศรีสวัสดิ์สกุล วรัณศณางค์ บุณฑริก ประสิทธิ์ กุลบุญญา ศุภาวีร์ มากดี และบัวละพัน สุพันทอง. (2562) การพัฒนากรอบแนวคิดเพื่อหาปัจจัยที่มีผลกระทบต่อการยอมรับระบบชำระเงินด้วยคิวอาร์โค้ด ในแขวงจำปาสัก สาธารณรัฐประชาธิปไตยประชาชนลาว. ใน การประชุมวิชาการนำเสนอผลงานวิจัยระดับบัณฑิตศึกษา (Symposium) “ราชภัฏวิจัยเพื่อพัฒนาท้องถิ่นสู่ความยั่งยืน” ครั้งที่ ๑๑ (SPO). (น. O-5-3) อุบลราชธานี: มหาวิทยาลัยราชภัฏอุบลราชธานี.
-  
-6. ชาญศักดิ์ ศรีสวัสดิ์สกุล วรัณศณางค์ บุณฑริก และ ชัยวิชิต แก้วกลม. (2561) การวัดประสิทธิภาพของเครือข่ายอินเทอร์เน็ตโดยการปิงแบบต้นทางถึงปลายทางด้วยคอมพิวเตอร์ขนาดเล็กราสเบอรี่พาย. ใน Thailand Research Expo : Symposium 2018. (น. 442-454 )
-  
-7. เอกชัย ขำตา และ ชาญศักดิ์ ศรีสวัสดิ์สกุล. (2561) ระบบติดตามขนส่งมวลชนสาธารณะชาญฉลาดด้วยสมาร์ทโฟน. ใน การประชุมวิชาการระดับชาติสวนดุสิต 2018 ครั้งที่ 3 (น. 20-25). กรุงเทพฯ: มหาวิทยาลัยสวนดุสิต.
-  
-8. สันทนีย์ กิจเพิ่มเกียรติ และ ชาญศักดิ์ ศรีสวัสดิ์สกุล. (2561) การเปรียบเทียบการยอมรับเฟซบุ๊กและไลน์ เพื่อใช้เป็นระบบพาณิชย์สำหรับสินค้าหนึ่งตำบลหนึ่งผลิตภัณฑ์ กรณีศึกษา ผ้ากาบบัวจังหวัดอุบลราชธานี. ใน การประชุมวิชาการระดับชาติสวนดุสิต 2018 ครั้งที่ 3" งานวิจัยสร้างมูลค่า บูรณาการสหสาขา พัฒนาชาติก้าวไกล Thailand 4.0" (SDNC2018). (น. 26-34) กรุงเทพฯ: มหาวิทยาลัยสวนดุสิต.
-  
-9. ชายชาญ อึ้งตระกูล, วรัณศณางค์ บุณฑริก, และชาญศักดิ์ ศรีสวัสดิ์สกุล. (2561) การพัฒนาแอปพลิเคชันแหล่งท่องเที่ยวจังหวัดอุบลราชธานีบนระบบปฏิบัติการแอนดรอยด์. ใน การประชุมวิชาการระดับชาติสวนดุสิต 2018 ครั้งที่ 3" งานวิจัยสร้างมูลค่า บูรณาการสหสาขา พัฒนาชาติก้าวไกล Thailand 4.0" (SDNC2018). (น. 35-40) กรุงเทพฯ: มหาวิทยาลัยสวนดุสิต.
-  
-10. อติกานต์ กองสำลี และ ชาญศักดิ์ ศรีสวัสดิ์สกุล. (2561) การศึกษาผลสัมฤทธิ์ทางการเรียนด้วยการเรียนแบบกลับด้านบนเครือข่ายสังคมออนไลน์ สำหรับผู้เรียนในระดับอุดมศึกษา: กรณีศึกษามหาวิทยาลัยราชภัฏอุบลราชธานี. ใน การประชุมวิชาการนำเสนอผลงานวิจัยระดับบัณฑิตศึกษา (Symposium) “ราชภัฏวิจัยเพื่อพัฒนาท้องถิ่นสู่ความยั่งยืน” ครั้งที่ 10 (SPO). (น. 352-360) อุบลราชธานี: มหาวิทยาลัยราชภัฏอุบลราชธานี.
-  
-11. วรัณศณางค์ บุณฑริก, ชาญศักดิ์ ศรีสวัสดิ์สกุล. (2561) กรอบแนวคิดเพื่อหาปัจจัยที่มีผลกระทบต่อการยอมรับการชำระเงินด้วยรหัสคิวอาร์ของวิสาหกิจขนาดกลางและขนาดย่อมในจังหวัดอุบลราชธานี ประเทศไทย. ใน การประชุมวิชาการนำเสนอผลงานวิจัยระดับบัณฑิตศึกษา (Symposium) “ราชภัฏวิจัยเพื่อพัฒนาท้องถิ่นสู่ความยั่งยืน” ครั้งที่ 10 (SPO). (น. 361-369) อุบลราชธานี: มหาวิทยาลัยราชภัฏอุบลราชธานี.
-  
-12. ธนรัฐ โชติพันธ์, ชาญศักดิ์ ศรีสวัสดิ์สกุล. (2561). ระบบตรวจจับและบันทึกข้อมูลการจอดรถด้วยเทคนิคประมวลผลภาพแบบตรวจจับเส้นขอบบนคอมพิวเตอร์ขนาดเล็กราสเบอร์รี่พาย. ใน การประชุมวิชาการนำเสนอผลงานวิจัยระดับบัณฑิตศึกษา (Symposium) ครั้งที่ 10 (น. 370-379) อุบลราชธานี: มหาวิทยาลัยราชภัฏอุบลราชธานี.
-  
-13. ชาญศักดิ์ ศรีสวัสดิ์สกุล และวรัณศณางค์ บุณฑริก (2560), การเปรียบเทียบการยอมรับเฟสบุคและไลน์เพื่อใช้ในการสื่อสารในชั้นเรียน กรณีศึกษา คณะวิทยาการคอมพิวเตอร์ มหาวิทยาลัยราชภัฏอุบลราชธานี.ใน The 13th National Conference on Computing and Information Technology (NCCIT2017) (น.299-304) กรุงเทพฯ: มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ
-  
-14. ฉัตรพัฒน์ สิทธิพันธ์ และ ชาญศักดิ์ ศรีสวัสดิ์สกุล. (2560) ระบบสารสนเทศออนไลน์เพื่อสนับสนุนกิจกรรมในชั้นเรียนสำหรับเขตพื้นที่อินเตอร์เน็ตไม่เสถียร: กรณีศึกษาโรงเรียนบ้านโพธิ์กระมัล. ใน การประชุมวิชาการระดับชาติ ด้านเทคโนโลยีอุตสาหกรรมและวิศกรรม ครั้งที่ 3 (NCITE2560), (น. 24 - 30) อุบลราชธานี: มหาวิทยาลัยราชภัฏอุบลราชธานี.
-  
+    th
 
-งานวิจัยที่เกี่ยวข้องและทำเสร็จแล้ว
+11. T, Kaewklom C., Srisawatsakul C. and Saramoon .S, (2018) **The Parking Space Monitoring and Analysis System using Edge Detection Image Processing Technique on RaspberryPi** The 11 National Conference of Rajabhat Research for Local Development Toward Sustainability. Ubon Ratchathani
 
-1. การพัฒนาแชทบอทสำหรับดูแลผู้ป่วยโรคเบาหวานในผู้สูงอายุบนเครือข่ายสังคมออนไลน์
-  
-2. แชทบอทชาญฉลาดเพื่อให้คำปรึกษากับนักศึกษาด้านวิชาการ: กรณีศึกษา คณะวิทยาการคอมพิวเตอร์ มหาวิทยาลัยราชภัฏอุบลราชธานี
-  
-3. การพัฒนารหัสคิวอาร์ต้นแบบตามปัจจัยที่มีผลกระทบต่อการยอมรับระบบชำระเงินด้วยรหัสคิวอาร์ ในแขวงจำปาสัก สาธารณรัฐประชาธิปไตยประชาชนลาว
-  
-4. ระบบแนะนำสถานที่ท่องเที่ยวอย่างชาญฉลาดด้วยเทคนิคการเรียนรู้ของเครื่องจักรผ่านเนื้อหาที่ผู้ใช้สร้างขึ้นในเครือข่ายสังคมออนไลน์
-  
-5. หัวหน้าโครงการวิจัยเรื่อง: โครงการสำรวจสถานะของเป้าหมายการพัฒนาที่ยั่งยืนในบริบทประเทศไทย และทางเลือกมาตรการทางเศรษฐศาสตร์ สังคม และกฎหมาย เป้าหมายที่ 4 (มกราคม – พฤษภาคม 2017) ทุกจาก สกว.
-  
-6. “ปัจจัยที่มีผลต่อการยอมรับการเรียนรู้ผ่านเครือข่ายสังคมออนไลน์บนอุปกรณ์พกพาเพื่อการศึกษาในระดับอุดมศึกษาในแต่ละกลุ่มผู้ยอมรับนวัตกรรม: กรณีศึกษามหาวิทยาลัยราชภัฏอุบลราชธานี” ทุนวิจัยงบรายได้คณะวิทยาการคอมพิวเตอร์ มหาวิทยาลัยราชภัฏอุบลราชธานี
-  
-7. ผลของอายุต่อปริมาณการใช้งานสารสนเทศบนอุปกรณ์พกพา: วัดโดยทฤษฏีเอนโทรปี้ ทุนงบประมาณรายได้มหาวิทยาราชภัฏอุบลราชธานี (มกราคม 2560 – ธันวาคม 2560)
-  
-8. การวัดประสิทธิภาพของระบบเครือข่ายอินเทอร์เน็ตด้วยคอมพิวเตอร์ขนาดเล็กราสเบอรี่พาย ด้วยการปิงแบบต้นทางถึงปลายทาง
-  
-9. ปัจจัยที่มีผลต่อการยอมรับการชำระเงินด้วยรหัสคิวอาร์ของวิสาหกิจขนาดกลางและขนาดย่อมในประเทศไทย
-  
-10. การเปรียบเทียบการยอมรับเฟสบุคและไลน์ เพื่อใช้เป็นระบบพาณิชย์สำหรับสินค้าหนึ่งตำบลหนึ่งผลิตภัณฑ์ กรณีศึกษา ผ้ากาบบัวจังหวัดอุบลราชธานี
-  
+    th
 
-ผู้ทรงคุณวุฒิภายนอกในการสอบวิทยานิพนธ์ขั้นสุดท้าย
+12. Boontarig W., and Srisawatsakul. C., (2018) **A Conceptual Framework for Finding Factors Affecting Intention to Use QR Code Payment of Small and Medium Enterprise in Ubon Ratchathani, Thailand.** In The 11 National Conference of Rajabhat Research for Local Development Toward Sustainability
 
-1. เป็นกรรมการภายนอกเพื่อสอบป้องกันวิทยานิพนธ์ขั้นสุดท้ายของนักศึกษาปริญญาโท คณะเทคโนโลยีสารสนเทศ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี หัวข้อเรื่อง “กรณีศึกษาประสิทธิภาพการเรียนรู้เรื่องโรคเบาหวานผ่านสื่อมัลติมีเดีย”ณ. มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี. วันที่ 30 พฤษภาคม 2562
-  
-2. เป็นกรรมการภายนอกเพื่อสอบป้องกันวิทยานิพนธ์ขั้นสุดท้ายของนักศึกษาปริญญาโท คณะเทคโนโลยีสารสนเทศ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี หัวข้อเรื่อง “การรับรู้ถึงปัจจัยการเลือกใช้สื่ออิเล็กทรอนิกส์ในกระบวนการสื่อสารที่แตกต่างกันของผู้ใช้งานที่เป็นเจเนอเรชัน เอ็กซ์ และวาย ในประเทศไทย” ณ. มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี. วันที่ 30 พฤษภาคม 2562
-  
-3. เป็นกรรมการภายนอกเพื่อสอบป้องกันวิทยานิพนธ์ขั้นสุดท้ายของนักศึกษาปริญญาโท คณะเทคโนโลยีสารสนเทศ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี หัวข้อเรื่อง “การศึกษาปัจจัยที่มีผลต่อทัศนคติและการยอมรับการโฆษณาสินค้าบนแอปพลิเคชันไลน์ กรณีศึกษา ไลน์แอด” ณ. มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี. วันที่ 31 ตุลาคม 2561
-  
-4. เป็นกรรมการภายนอกเพื่อสอบป้องกันวิทยานิพนธ์ขั้นสุดท้ายของนักศึกษาปริญญาโท คณะเทคโนโลยีสารสนเทศ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี หัวข้อเรื่อง “ความตั้งใจที่จะเรียนรู้แบบเคลื่อนที่อย่างไม่เป็นทางการบนสมาร์ทโฟน: กรณีตัวอย่างจากหัวข้อ GIS เบื้องต้น” ณ. มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี. วันที่ 31 ตุลาคม 2561
-  
-5. เป็นกรรมการภายนอกเพื่อสอบป้องกันวิทยานิพนธ์ขั้นสุดท้ายของนักศึกษาปริญญาโท คณะเทคโนโลยีสารสนเทศ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี หัวข้อเรื่อง “ฟีเจอร์สําคัญสําหรับการพัฒนาแอปพลิเคชันช่วยฝึกสติ” ณ. มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี. วันที่ 23 พฤษภาคม 2561
-  
-6. เป็นกรรมการภายนอกเพื่อสอบป้องกันวิทยานิพนธ์ขั้นสุดท้ายของนักศึกษาปริญญาโท คณะเทคโนโลยีสารสนเทศ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี หัวข้อเรื่อง “การเชื่อมโยงข้อมูลด้านการประกันคุณภาพการศึกษาระหว่างการประกันคุณภาพภายในและการประเมินคุณภาพภายนอก: กรณีศึกษาระดับอุดมศึกษาในประเทศไทย” ณ. มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี. วันที่ 23 พฤษภาคม 2561
-  
-7. เป็นกรรมการภายนอกเพื่อสอบป้องกันวิทยานิพนธ์ขั้นสุดท้ายของนักศึกษาปริญญาโท คณะเทคโนโลยีสารสนเทศ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี หัวข้อเรื่อง “ปัจจัยที่มีอิทธิพลต่อความตั้งใจในการใช้งานแอฟพลิเคชัน Protect Pants บนสมาร์ตโฟนของเกษตรกรในจังหวัดสุราษฏร์ธานี” ณ. มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี. วันที่ 14 พฤศจิกายน 2560
-  
-8. เป็นกรรมการภายนอกเพื่อสอบป้องกันวิทยานิพนธ์ขั้นสุดท้ายของนักศึกษาปริญญาโท คณะเทคโนโลยีสารสนเทศ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี หัวข้อเรื่อง “ผลกระทบของการจองหน่วยความจำต่อการใช้พลังงานในเครื่องจักรเสมือน กรณีศึกษาไมโครซอฟท์ไฮเปอร์-วี” ณ. มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี. วันที่ 14 พฤศจิกายน 2559
-  
+    th
 
-กรรมการผู้ทรงคุณวุฒิในงานประชุมวิชาการ
+13. Srisawatsakul C., and Boontarig W (2017) **The Adoption of Facebook vs Line for Classroom Communication: A Case Study of Faculty of Computer Science, Ubon Ratchathani Rajabhat University.** In The Thirteenth National Conference On Computing and Information technology (p.299). Bangkok.
+14. Sittiphan, C., and Srisawatsakul C., (2017) **The Online Information System for Supporting Classroom Activities in Unstable Internet Connection : A Case Study of Ban Phokramul Primary School**. In The Third National Conference on Industrial Technology and Engineering, 266, Thailand.
 
+Techical Commitee for Academic Journals and Conferences.
 1. The Technical Committee of The  The 2nd International Workshop on Blockchain and its Applications (Blockchain 2019) Guangzhou University, China
   
 2. Guangzhou, China, November 12-15, 2019
