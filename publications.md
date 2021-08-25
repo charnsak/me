@@ -12,7 +12,7 @@ My Scopus [Click here](https://www.scopus.com/authid/detail.uri?authorId=5560129
 
 # **List of the publications**
 
-## **International Publications (![#f03c15]***** = Top Publications, Order by date of publication)**
+## **International Publications (<span style="color: red;">***** </span> = Top Publications, Order by date of publication)**
 
 1. Srisawatsakul, C., & Boontarig, W. (2022). **Tertiary Student Intention Towards Blockchain-Based Academic Records: A Case Study Of Ubon Ratchathani Province, Thailand.**Panyapiwat Journal*, 14(2), In Press, Asean Citation Index
 2. ![#f03c15]***** Srisawatsakul, C., & Boontarig, W. (2021). **An Assessment of Privacy Concerns on Personal Health Information: Thailand Case Study.** *Current Applied Science and Technology*, 21(4), 774-787, Scopus (Q4)
