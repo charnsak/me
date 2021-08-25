@@ -40,17 +40,8 @@ My Scopus [Click here](https://www.scopus.com/authid/detail.uri?authorId=5560129
 8. Santhanee K., and Srisawatsakul C., (2018) The Adoption of Facebook vs Line for Social Commerce of One Tambon One Product: A Case **Study of Kabbua Fabric of Ubon Ratchathani Province**. *In The 3rd Suan Dusit Academic National Conference 2018*, (pp 26-34). Bangkok: Suan Dusit University.
 9. Auengtrakul C., Boontarig W., and Srisawatsakul. C., (2018) **The Development of Mobile Application of Tourism Attractions in Ubon Ratchathani on Android**. *In The 3rd Suan Dusit Academic National Conference 2018*, (pp 35-40). Bangkok: Suan Dusit University.
 10. Kongsamlee A., and Srisawatsakul C., (2018) **The Improvement of Learning Outcome using Flipped Classroom for Tertiary Students: A Case Study of Ubon Ratchathani Rajabhat University** The 11 National Conference of Rajabhat Research for Local Development Toward Sustainability. Ubon Ratchathani
-
-    th
-
 11. T, Kaewklom C., Srisawatsakul C. and Saramoon .S, (2018) **The Parking Space Monitoring and Analysis System using Edge Detection Image Processing Technique on RaspberryPi** The 11 National Conference of Rajabhat Research for Local Development Toward Sustainability. Ubon Ratchathani
-
-    th
-
 12. Boontarig W., and Srisawatsakul. C., (2018) **A Conceptual Framework for Finding Factors Affecting Intention to Use QR Code Payment of Small and Medium Enterprise in Ubon Ratchathani, Thailand.** In The 11 National Conference of Rajabhat Research for Local Development Toward Sustainability
-
-    th
-
 13. Srisawatsakul C., and Boontarig W (2017) **The Adoption of Facebook vs Line for Classroom Communication: A Case Study of Faculty of Computer Science, Ubon Ratchathani Rajabhat University.** In The Thirteenth National Conference On Computing and Information technology (p.299). Bangkok.
 14. Sittiphan, C., and Srisawatsakul C., (2017) **The Online Information System for Supporting Classroom Activities in Unstable Internet Connection : A Case Study of Ban Phokramul Primary School**. In The Third National Conference on Industrial Technology and Engineering, 266, Thailand.
 
