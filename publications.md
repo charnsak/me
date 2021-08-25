@@ -12,10 +12,10 @@ My Scopus [Click here](https://www.scopus.com/authid/detail.uri?authorId=5560129
 
 # **List of the publications**
 
-## **International Publications (***** = Top Publications, Order by date of publication)**
+## **International Publications (![#f03c15]***** = Top Publications, Order by date of publication)**
 
 1. Srisawatsakul, C., & Boontarig, W. (2022). **Tertiary Student Intention Towards Blockchain-Based Academic Records: A Case Study Of Ubon Ratchathani Province, Thailand.**Panyapiwat Journal*, 14(2), In Press, Asean Citation Index
-2. ***** Srisawatsakul, C., & Boontarig, W. (2021). **An Assessment of Privacy Concerns on Personal Health Information: Thailand Case Study.** *Current Applied Science and Technology*, 21(4), 774-787, Scopus (Q4)
+2. ![#f03c15]***** Srisawatsakul, C., & Boontarig, W. (2021). **An Assessment of Privacy Concerns on Personal Health Information: Thailand Case Study.** *Current Applied Science and Technology*, 21(4), 774-787, Scopus (Q4)
 3. *** Srisawatsakul, C., & Boontarig, W. (2020). **Tourism Recommender System Using Machine Learning Based on User's Public Instagram Photos.** *In The 5th International Conference on Information Technology (InCIT2020).* (pp. 276-281) on 21-22 October 2020. IEEEXplore® Digital Library.
 4. *** Srisawatsakul C., & Boontarig W. (2020). **An Empirical Study Towards the Intention to Use QR Code Payment In Champasak Province, Lao People’s Democratic Republic.** In *Recent Advances in Information and Communication Technology 2020.* (pp. 1-10) on 14-15 May 2020. Springer International Publishing.
 5. Boontarig W., & Srisawatsakul C. (2020). **A Framework for Designing and Evaluating Persuasive Technology in Education.** In *Recent Advances in Information and Communication Technology 2020.* (pp. 93-103) on 14-15 May 2020. Springer International Publishing.
