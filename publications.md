@@ -8,7 +8,7 @@ My ORCID:
 
 My Google Scholar Profile : [Click here](https://scholar.google.co.th/citations?user=-w7esrIAAAAJ&hl=th)
 
-My Scopus Profile [Click here](https://www.scopus.com/authid/detail.uri?authorId=55601290300)
+My Scopus Profile (login to Scopus is needed to see the page) [Click here](https://www.scopus.com/authid/detail.uri?authorId=55601290300)
 
 My Linkedin Profile [Click here](https://www.linkedin.com/in/charnsak/)
 
