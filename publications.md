@@ -10,9 +10,16 @@ My Google Scholar : [Click here](https://scholar.google.co.th/citations?user=-w7
 
 My Scopus [Click here](https://www.scopus.com/authid/detail.uri?authorId=55601290300)
 
+Last update: 29 April 2022
 # **List of the publications**
 
 ## **International Publications (<span style="color: red;">***** </span> = Top Publications, Order by date of publication)**
+
+Article in press in Scopus Q3:
+
+1.	Srisawatsakul, C., & Boontarig, W. and Quirchmayr, G., (2022). **A Process Model for Data Processing Impact Analysis in Thailand’s Healthcare Sector. In Press
+2.	Boontarig W., & Srisawatsakul C. (2022). **Social Media Banking Adoption Among Teenager: a Case Study of Northeast Thailand. In Press.
+
 
 1. Srisawatsakul, C., & Boontarig, W. (2022). **Tertiary Student Intention Towards Blockchain-Based Academic Records: A Case Study Of Ubon Ratchathani Province, Thailand.**Panyapiwat Journal*, 14(2), In Press, Asean Citation Index
 2. ![#f03c15]***** Srisawatsakul, C., & Boontarig, W. (2021). **An Assessment of Privacy Concerns on Personal Health Information: Thailand Case Study.** *Current Applied Science and Technology*, 21(4), 774-787, Scopus (Q4)
