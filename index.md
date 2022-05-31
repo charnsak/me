@@ -2,16 +2,16 @@
 layout: default
 ---
 
-## About Charnsak Srisawatsakul
+## About Asst. Prof. Dr. Charnsak Srisawatsakul
 
 | INFORMATION | Male, Thai Nationality                                       |
 | ----------- | ------------------------------------------------------------ |
-| Emails:     | charnsak (at) charnsak.com, charnsak (at) protonmail.com(Encrypted), charnsak (at) researcher.in.th |
+| Emails:     | charnsak (at) charnsak.com, charnsak (at) protonmail.com(Encrypted email), charnsak (at) researcher.in.th |
 | Blogs:      | [https://www.charnsak.com](https://www.charnsak.com), [https://www.mashup.in.th](https://www.mashup.in.th), [https://www.chaiyuu.com](https://www.chaiyuu.com) |
 
 <img class="profile-picture" src="citations.jpg">
 
-Charnsak Srisawatsakul Received a Ph.D. degree in Information Technology and Master of Science in Electronic Business from School of Information Technology, King Mongkut’s University of Technology Thonburi Bangkok, Thailand. He born in Bangkok. live in Hatyai (south of Thailand) for ten years. One year in Bangalore . One year in Vienna . He was working as Software Developer at Intel India, Banking in Thailand, Client Tecnical Service (Venda Software), Cloud Services Consutant (Freelance), Lecturer (UTCC), Researcher (KMUTT), Columnist (PC World, Pocket PC Magz), and Merchant.
+Charnsak Srisawatsakul is an assistant professor. He received a Ph.D. degree in Information Technology and Master of Science in Electronic Business from School of Information Technology, King Mongkut’s University of Technology Thonburi Bangkok, Thailand. He born in Bangkok. live in Hatyai (south of Thailand) for ten years. One year in Bangalore . One year in Vienna . He was working as Software Developer at Intel India, Banking in Thailand, Client Tecnical Service (Venda Software), Cloud Services Consutant (Freelance), Lecturer (UTCC), Researcher (KMUTT), Columnist (PC World, Pocket PC Magz), and Merchant.
 
 ---
 > Experienced researcher and software developer. Strong analytical skills and a broad range of computer expertise. Good command of English.
@@ -32,7 +32,12 @@ Year | Degree | institution
 
 ## Work Experience
 
-- **2020 - Present** 	Vice Dean for  Research and Academic Affairs ,Faculty of computer science, Ubon  Ratchathani Rajabhat University, Ubon Ratchathani, Thailand
+- 2021 – Present	Lecturer, BSc in Digital Innovation
+	Faculty of computer science, Ubon Ratchathani Rajabhat University, Ubon Ratchathani, Thailand
+	Lecturer for bachelor’s degree. The digital innovation department focuses on training the students to become technologies start-up.  
+- 2020 – Present	Member of Academic Senate of Ubon Ratchathani Rajabhat University
+	▪	Provided university-wide academic and research activities strategies, such as a suggestion for a new or updated curriculum.
+- **2020 - 2021** 	Vice Dean for  Research and Academic Affairs ,Faculty of computer science, Ubon  Ratchathani Rajabhat University, Ubon Ratchathani, Thailand
   - Provided faculty-wide strategic  for the faculty management team focused on academic and research activities.  
   - Established potential partners  from academia and industry in both international and local.
 - **2019 – 2020** Post-Doctoral  Researcher (OeAD-Ernst Mach  Grant), Fakultät für Informatik, UniWien, Währinger Straße 29,  1090, Wien, Austria.
